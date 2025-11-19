@@ -1,8 +1,8 @@
-# 🎮 Carottes-Vaches-Humains Egoiste
+# 🎮 Simulation Egoisme
 
 ## 📝 Description
 Simulation explorant les dynamiques de coopération et d'égoïsme entre agents en compétition pour des ressources.
-
+Inspiré de CodeBH :  https://www.youtube.com/watch?v=qVOjXQUzOJw
 ---
 
 ## ⚙️ Caractéristiques
